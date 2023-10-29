@@ -1,0 +1,1 @@
+teste de uma aplicação simples, com entrada de dados utilizando a linguagem javascript.
